@@ -33,7 +33,7 @@ Add screenshots or GIFs of the interface here to showcase your system (if availa
 ### Steps to Install
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/online-course-material-management.git
+   git clone https://github.com/Balasunil15/OCMMS.git
    ```
 2. Upload the project files to your server's root directory (e.g., `htdocs` for XAMPP).
 3. Create a database in MySQL:
