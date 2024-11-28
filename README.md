@@ -77,6 +77,6 @@ Feel free to contribute by:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For queries or support, email (sunildeva2007@gmail.com)
+For queries or support, email (smithul904@gmail.com)
 
 This README provides installation steps, an overview of features, and technical details, ensuring clarity for developers and users.
